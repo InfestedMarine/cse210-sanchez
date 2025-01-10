@@ -28,7 +28,7 @@ class Program
         else if (parseGrade >= D){
             Console.WriteLine("Do Better you've got a failing grade of D!");
         }
-        else if (parseGrade < 60){
+        else if (parseGrade < F){
             Console.WriteLine("I Don't think this class is for you F!");
         }
 
